@@ -1,1 +1,1 @@
-(Welcome to Machine Learning Mastery!)[https://machinelearningmastery.com/]
+[Welcome to Machine Learning Mastery!](https://machinelearningmastery.com/)
